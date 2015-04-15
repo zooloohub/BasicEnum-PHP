@@ -1,7 +1,7 @@
 # BasicEnum-PHP
 Mimics enumeration with extendable class
 
-Example:
+## Usage
 ```php
 // Also consider making final instead of abstract
 abstract class DaysOfWeek extends BasicEnum {
@@ -38,5 +38,5 @@ DaysOfWeek::Friday                                   // 5
 
 ```
 ## Credit
-Much of the code and examples should be credited to Brian Cline and others. Orignal thread can be seen at the link below
+Examples and code should be credited to Brian Cline and others. Orignal thread can be seen at the link below
 http://stackoverflow.com/questions/254514/php-and-enumerations
