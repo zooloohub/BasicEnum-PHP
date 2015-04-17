@@ -3,7 +3,7 @@
  * BasicEnum
  *
  * @author Brian Gebel <brian@pixeloven.com>
- * @link http://www.pixeloven.com/
+ * @link https://github.com/pixeloven/BasicEnum-PHP
  * @copyright 2015 PixelOven (Under MIT License)
  *
  * Allows for basic enumeration in PHP
