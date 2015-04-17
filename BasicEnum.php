@@ -1,19 +1,15 @@
 <?php
 /**
- * PixelOven Framework
+ * BasicEnum
  *
  * @author Brian Gebel <brian@pixeloven.com>
  * @link http://www.pixeloven.com/
- * @copyright 2015 PixelOven
+ * @copyright 2015 PixelOven (Under MIT License)
  *
  * Allows for basic enumeration in PHP
  * 
  */
 
-
-/**
- * Mimics Enumeration 
- */
 abstract class BasicEnum {
 
 	// Static Variables
