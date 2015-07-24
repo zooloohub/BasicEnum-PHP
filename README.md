@@ -33,7 +33,7 @@ DaysOfWeek::getValueByName('Friday');                // 5
 // Retrieving name by value -- currently assumes unique values
 DaysOfWeek::getNameByValue(5);                       // Friday
 
-// Direct refrence of name
+// Direct reference of name
 DaysOfWeek::Friday                                   // 5
 
 ```
