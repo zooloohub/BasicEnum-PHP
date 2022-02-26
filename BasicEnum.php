@@ -70,7 +70,7 @@ abstract class BasicEnum {
 	 * Gets constant from defined enum
 	 * @return: (mixed)
 	 */
-	private static function getConstants() {
+	protected static function getConstants() {
 		if (self::$constCacheArray == NULL) {
 			self::$constCacheArray = [];
 		}
